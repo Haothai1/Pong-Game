@@ -11,7 +11,7 @@ Welcome to the classic two-player Pong game with a C++ twist! Get ready for some
 **Step 1:** Clone or download the repo:
 ```bash
 git clone https://github.com/Haothai1/Pong-Game.git
-
+```
 **Step 2:** Extract the ZIP file or navigate to the cloned repository.
 **Step 3:** Running the Game in Visual Studio
 **Step 4:** Open Visual Studio.
