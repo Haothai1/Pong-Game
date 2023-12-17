@@ -26,4 +26,5 @@ git clone https://github.com/Haothai1/Pong-Game.git
 
 **Step 8:** Run the project (F5).
 
-Enjoy playing Pong!
+
+#Enjoy playing Pong!
